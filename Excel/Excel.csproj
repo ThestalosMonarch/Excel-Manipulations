@@ -48,6 +48,10 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Actions\ConvertFromXLSBToXLSX.cs" />
+    <Compile Include="Copies\Copies.cs" />
+    <Compile Include="Deletes\Deletes.cs" />
+    <Compile Include="Formulas\Formulas.cs" />
+    <Compile Include="Helpers\Helpers.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
